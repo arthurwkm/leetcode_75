@@ -1,5 +1,4 @@
-def reverseWords(s):
-    fs = ""
+def reverseWords(s): 
     word = []
     words = []
     for i, c in enumerate(s):
